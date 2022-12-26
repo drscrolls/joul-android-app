@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Joul" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <style name="ShapeAppearanceOverlay.App.CornerSize50Percent">
+            <item name="cornerSize">50%</item>
+        </style>
+    </style>
+</resources>
